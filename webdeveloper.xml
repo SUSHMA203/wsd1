@@ -1,45 +1,39 @@
 <?xml version="1.0" encoding="ISO8859-1" ?>
 <webpagedevelop>
-	<developer>
+	<movie>
+		<name>Padmaavat</name>
+		<rating>5.3</rating>
+		<language>Hindi</language>
+		<cost>585Cr</cost>
+	</movie>
+	<movie>
+		<name>Baaghi 2</name>
+		<rating>4.8</rating>
+		<language>Hindi</language>
+		<cost>254Cr</cost>
+	</movie>
+	<movie>
+		<name>Lion king</name>
+		<rating>7.4</rating>
+		<language>English</language>
+		<cost>772Cr</cost>
+	</movie>
+	<movie>
 		<name>Ramesh</name>
-		<age>28</age>
-		<designation>C.E.O</designation>
-		<salary>1,50,000</salary>
-	</developer>
-	<developer>
-		<name>Ghansham</name>
-		<age>32</age>
-		<designation>Assis. Manager</designation>
-		<salary>1,20,000</salary>
-	</developer>
-	<developer>
-		<name>Kartik</name>
-		<age>35</age>
-		<designation>Developer</designation>
-		<salary>80,000</salary>
-	</developer>
-	<developer>
-		<name>Shardul</name>
-		<age>35</age>
-		<designation>Front End Developer</designation>
-		<salary>75,000</salary>
-	</developer>
-	<developer>
-		<name>Jaan</name>
-		<age>26</age>
-		<designation>Back End Developer</designation>
-		<salary>85,000</salary>
-	</developer>
-	<developer>
-		<name>Ritik</name>
-		<age>35</age>
-		<designation>Data accumulator</designation>
-		<salary>60,000</salary>
-	</developer>
-	<developer>
-		<name>Abhishek</name>
-		<age>25</age>
-		<designation>Overall Inspector</designation>
-		<salary>50,000</salary>
-	</developer>
+		<rating>28</rating>
+		<language>C.E.O</language>
+		<cost>1,50,000</cost>
+	</movie>
+	<movie>
+		<name>Fast & Furious</name>
+		<rating>8.7</rating>
+		<language>English</language>
+		<cost>746Cr</cost>
+	</movie>
+	<movie>
+		<name>Men In Black</name>
+		<rating>6.2</rating>
+		<language>English</language>
+		<cost>793Cr</cost>
+	</movie>
 </webpagedevelop>
