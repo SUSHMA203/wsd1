@@ -18,14 +18,9 @@
 		<language>English</language>
 		<cost>772Cr</cost>
 	</movie>
+	
 	<movie>
-		<name>Ramesh</name>
-		<rating>28</rating>
-		<language>C.E.O</language>
-		<cost>1,50,000</cost>
-	</movie>
-	<movie>
-		<name>Fast & Furious</name>
+		<name>Fast and Furious</name>
 		<rating>8.7</rating>
 		<language>English</language>
 		<cost>746Cr</cost>
